@@ -15,3 +15,5 @@ To use this extension, you will need to install it to your Logic 2 instance. Onc
     * Choose the data format address and code fields (decimal, hex, or binary).
 3. You will see each frame labeled with either type (e.g., START_FRAME) or the values of the address/command in the datatype you specified.
 4. The raw data of each frame is also printed to the Terminal inside of Logic 2. 
+
+![Logic 2 screenshot of extension](https://github.com/DSUmjham/saleae-nec-decoder/blob/main/images/logic2-screenshot01.jpg?raw=true)
