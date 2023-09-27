@@ -1,0 +1,13 @@
+{
+  "name": "NEC Protocol Decoder",
+  "apiVersion": "1.0.0",
+  "author": "Mike Ham",
+  "version": "0.0.1",
+  "description": "NEC protocol decoder for  infrared (IR) remotes",
+  "extensions": {
+    "NEC Protocol Decoder": {
+      "type": "HighLevelAnalyzer",
+      "entryPoint": "HighLevelAnalyzer.Hla"
+    }
+  }
+}
