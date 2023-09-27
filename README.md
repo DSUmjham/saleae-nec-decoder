@@ -4,7 +4,7 @@ This extension facilitates decoding NEC infrared (IR) codes using Saleae Logic 2
 Not all features of the NEC protocol are currently implemented; this was a test project used for pulling codes from an inexpensive RGB LED strip receiver. 
 
 ## Getting Started
-To use this extension, you will need to install it to your Logic 2 instance. Once installed, capture an IR transmission or use one of the sample captures provided in this repository.
+To use this extension, you will need to install it to your Logic 2 instance. Once installed, capture an IR transmission or use one of the [sample captures](https://github.com/DSUmjham/saleae-nec-decoder/tree/main/captures) provided in this repository.
 
 1. With a capture open in Logic 2, add a **Simple Parallel Analyzer**
     * For **D0** choose the capture channel which has the IR stream
